@@ -1,0 +1,54 @@
+{
+
+"signup" : {
+    "name": "Bruno Nascimento",
+    "cpf": "40104251808",
+    "email": "bruno.nasc.1999@gmail.com",
+    "whatsapp": "11974584058",
+    "address": {
+        "postalcode": "09175400",
+        "street": "Rua Ariranha",
+        "number": "47",
+        "details": "ap 7",
+        "district": "Vila Helena",
+        "city_state": "Santo André/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "download (32).jpg"
+},
+
+"cpf_inv" : {
+    "name": "Bernardo Nascimento",
+    "cpf": "401042518087",
+    "email": "teste.nasc.1999@gmail.com",
+    "whatsapp": "11974584058",
+    "address": {
+        "postalcode": "09175400",
+        "street": "Rua Ariranha",
+        "number": "44",
+        "details": "ap 7",
+        "district": "Vila Helena",
+        "city_state": "Santo André/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "download (32).jpg"
+
+    },
+    
+    "email_inv" : {
+        "name": "Bruno Nascimento",
+        "cpf": "40104251808",
+        "email": "bruno.nasc.1999.gmail.com",
+        "whatsapp": "11974584058",
+        "address": {
+            "postalcode": "09175400",
+            "street": "Rua Ariranha",
+            "number": "47",
+            "details": "ap 7",
+            "district": "Vila Helena",
+            "city_state": "Santo André/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "download (32).jpg"
+    }
+}
