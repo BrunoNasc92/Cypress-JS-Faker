@@ -9,15 +9,15 @@ export default {
 
         var data = {
             name: `${firstName} ${lastName}`,
-            cpf: '40104251808',
+            cpf: '40404441404',
             email: faker.internet.email(firstName),
             whatsapp: '11974584058',
             address: {
-                postalcode: '09175400',
-                street: 'Rua Ariranha',
-                number: '47',
+                postalcode: '09888400',
+                street: 'Rua Daniel',
+                number: '590',
                 details: 'ap 7',
-                district: 'Vila Helena',
+                district: 'Vila Erasmo',
                 city_state: 'Santo André/SP'
             },
             delivery_method: 'Moto',
